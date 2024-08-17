@@ -1,6 +1,13 @@
-const args = process.argv.slice(2);
 let total = 0;
-for (let i = 0; i < args.length; i++) {
-  total += parseFloat(args[i]);
-}
-console.log(total / args.length);
+let numbers = process.argv.slice(2).length;
+if (numbers < 1) return console.log("it should be more than 1 arguments");
+process.argv.slice(2).forEach((arg) => {
+  if (isNaN(arg)) {
+    console.log("Please write a number");
+  }
+  total += parseFloat(arg);
+});
+
+console.log("average", total / numbers);
+
+// console.log(parseFloat("hello"));

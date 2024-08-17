@@ -1,0 +1,113 @@
+[
+  {
+    "id": 1,
+    "type": "doc",
+    "value": "hello world"
+  },
+  {
+    "id": 2,
+    "type": "doc",
+    "value": "sample text"
+  },
+  {
+    "id": 3,
+    "type": "doc",
+    "value": "foo bar"
+  },
+  {
+    "id": 4,
+    "type": "doc",
+    "value": "lorem ipsum"
+  },
+  {
+    "id": 5,
+    "type": "doc",
+    "value": "knex example"
+  },
+  {
+    "id": 6,
+    "type": "doc",
+    "value": "javascript array"
+  },
+  {
+    "id": 7,
+    "type": "doc",
+    "value": "dummy object"
+  },
+  {
+    "id": 8,
+    "type": "doc",
+    "value": "data structure"
+  },
+  {
+    "id": 9,
+    "type": "doc",
+    "value": "test string"
+  },
+  {
+    "id": 10,
+    "type": "doc",
+    "value": "last object"
+  },
+
+  {
+    "id": 11,
+    "name": "Used Apple Airpods",
+    "price": "50",
+    "description": "Battery life is not great"
+  },
+  {
+    "id": 12,
+    "name": "Refurbished MacBook Pro",
+    "price": "900",
+    "description": "Good condition with minor scratches"
+  },
+  {
+    "id": 13,
+    "name": "New Samsung Galaxy S21",
+    "price": "800",
+    "description": "Brand new, sealed in box"
+  },
+  {
+    "id": 14,
+    "name": "Pre-owned Nintendo Switch",
+    "price": "250",
+    "description": "Comes with a few games and a carrying case"
+  },
+  {
+    "id": 15,
+    "name": "Certified Refurbished iPad",
+    "price": "200",
+    "description": "Includes original charger and box"
+  },
+  {
+    "id": 16,
+    "name": "Used Sony PlayStation 4",
+    "price": "300",
+    "description": "In excellent condition, includes 2 controllers"
+  },
+  {
+    "id": 17,
+    "name": "Refurbished Dell XPS 13",
+    "price": "650",
+    "description": "Great battery life, minor wear on keyboard"
+  },
+  {
+    "id": 18,
+    "name": "Used Kindle Paperwhite",
+    "price": "80",
+    "description": "Screen has a few minor scratches, otherwise good"
+  },
+  {
+    "id": 19,
+    "name": "New Bose QuietComfort 35 II",
+    "price": "300",
+    "description": "Brand new, noise-cancelling headphones"
+  },
+  {
+    "id": 20,
+    "name": "Pre-owned Fitbit Charge 4",
+    "price": "100",
+    "description": "Good condition, includes charger and original packaging"
+  }
+]
